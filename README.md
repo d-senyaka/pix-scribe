@@ -104,6 +104,14 @@ Feel free to fork, modify, and contribute!
 
 ---
 
+---
+
+## Issues
+
+Feel free to add any issues you find 
+
+---
+
 ## 🙋‍♂️ Author
 Deshan Senanayake
 📧   smddsenyake@gmail.com
@@ -111,3 +119,4 @@ Deshan Senanayake
 🔗   LinkedIn : https://www.linkedin.com/in/deshan-senanayake-7a0695292/
 
 🔗   GitHub : https://github.com/Deshan-Senanayake
+
