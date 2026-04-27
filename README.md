@@ -1,5 +1,5 @@
 
-# 🖼️PixScribe- AI Image-to-Story Generator
+# 🖼️pix scribe- AI Image-to-Story Generator
 
 Turn images into vivid stories, poems, or captions using cutting-edge AI models!  
 This application combines vision and language models to let users upload an image, generate a caption using **BLIP**, and transform it into creative text using **TinyLLaMA**.
